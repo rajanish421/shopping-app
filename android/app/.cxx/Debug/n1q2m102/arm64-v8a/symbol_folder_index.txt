@@ -1,0 +1,1 @@
+/media/local_disk/Coder/Flutter project/projects/shoping_app/build/app/intermediates/cxx/Debug/n1q2m102/obj/arm64-v8a

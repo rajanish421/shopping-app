@@ -1,0 +1,2 @@
+/media/local_disk/Coder/Flutter project/projects/shoping_app/android/app/.cxx/Debug/n1q2m102/arm64-v8a/CMakeFiles/edit_cache.dir
+/media/local_disk/Coder/Flutter project/projects/shoping_app/android/app/.cxx/Debug/n1q2m102/arm64-v8a/CMakeFiles/rebuild_cache.dir
