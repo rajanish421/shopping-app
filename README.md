@@ -46,7 +46,7 @@ flowchart TD
     C -->|Not Authenticated| E[LoginPage]
 
     E --> F[FirebaseServices.signIn]
-    G[SignUpPage] --> H[FirebaseServices.singUp]
+    G[SignUpPage] --> H[FirebaseServices.signUp]
     D --> I[HomePage]
     D --> J[CartPage]
     D --> K[OrderPage]
@@ -104,7 +104,7 @@ lib/
 
 ### 2) Authentication Service
 - `lib/firebase_services.dart`
-  - `singUp(email, password)`
+  - `signUp(email, password)`
   - `signIn(email, password, context)`
   - `signOut()`
 
